@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    setlocale(0, "rus");
 }
