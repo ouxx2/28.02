@@ -4,4 +4,5 @@ int main()
 {
     setlocale(0, "rus");
     cout << "уцйаввы" << endl;
+    return 0;
 }
